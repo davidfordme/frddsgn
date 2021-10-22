@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @frddsgn
+- 👀 I’m currently interested in React, Typescript, Javascript and Arduino
+- 🌱 I’m currently looking for a deeper knowledge of React, and am learning API-Platform, GraphQl & Symfony
+- 📫 You can reach me on Twiiter @fddsgn
