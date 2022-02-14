@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @frddsgn
-- 👀 I’m currently interested in React, Typescript, Javascript and Arduino
-- 🌱 I’m currently looking for a deeper knowledge of React, and am learning API-Platform, GraphQl & Symfony
-- 📫 You can reach me on Twiiter @fddsgn
+- 👀 I’m currently a creative developer, tinkering around in React, Typescript, Javascript and C++
+- 🌱 I’m currently looking for a deeper knowledge of React, and am keen on picking up knowledge in creating APIs with GraphQl
+- 📱 You can visit my home on the internet @ davidford.me
+- 📫 and you can say hello @ hello@davidford.me
