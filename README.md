@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frddsgn
+- 👋 Hi, I’m @davidford.me
 - 👀 I’m a creative developer, tinkering around in React, Typescript, Javascript and C++
 - 🌱 I’m currently looking for a deeper knowledge of React, and am keen on picking up knowledge in creating APIs with GraphQl
 - 📱 You can visit my home on the internet @ davidford.me
